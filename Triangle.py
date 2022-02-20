@@ -4,7 +4,7 @@ wn = turtle.Screen()
 wn.bgcolor("white")
 triangle = turtle.Turtle()
 triangle.color("black")
-triangle.shape("turtle")
+triangle.shape("arrow")
 triangle.fillcolor("black")
 
 triangle.begin_fill()
